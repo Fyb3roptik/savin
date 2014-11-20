@@ -1,4 +1,4 @@
-SAVIN MP C4503
+SAVIN MP C4503 PPD Fix for OS X Yosemite
 
 This may or may not work on other models. Thanks to Erik Hanson for the fix!
 
